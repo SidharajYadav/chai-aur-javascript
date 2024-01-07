@@ -19,3 +19,5 @@ because of issue in block scope and functional scope
 */   //also
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+
+
