@@ -88,7 +88,9 @@ consumePromiseFive()
 // }
 
 //getAllUsers()
+//fetch
 
+fetch('https://aap.feedbank.xyz')
 fetch('https://api.github.com/users/hiteshchoudhary')
 .then((response) => {
     return response.json()
